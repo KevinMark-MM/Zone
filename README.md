@@ -3,7 +3,7 @@
 
 Termux zone change
 
-<img =src"Zone.png"/>
+<img src="Zone.png"/>
 
 
 # Coming Soon.....!
